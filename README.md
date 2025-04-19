@@ -4,11 +4,15 @@
 The Drowsiness Detection System is a cutting-edge AI-powered solution designed to enhance road safety by detecting driver drowsiness in real-time. Leveraging the power of deep learning and computer vision, this system can identify signs of drowsiness and alert the driver, potentially preventing accidents caused by fatigue. This project is built using the YOLOv5 object detection model and integrates seamlessly with real-time video feeds.
 
 ## Features ✨
-📹 **Real-Time Detection**: Utilizes a webcam or external camera to monitor the driver and detect drowsiness in real-time.
-🧠 **Custom Model Training**: Train your own custom YOLOv5 model using labeled datasets for specific use cases.
-🖼️🎥 **Image and Video Processing**: Supports both image-based and video-based drowsiness detection.
-🚘📡 **Future Integration**: Designed for future integration with car sensors and IoT devices to provide a comprehensive safety solution.
-💻🖥️ **Cross-Platform Compatibility**: Works on both macOS and Windows systems.
+ 📹 **Real-Time Detection**: Utilizes a webcam or external camera to monitor the driver and detect drowsiness in real-time.
+ 
+ 🧠 **Custom Model Training**: Train your own custom YOLOv5 model using labeled datasets for specific use cases.
+ 
+ 🖼️🎥 **Image and Video Processing**: Supports both image-based and video-based drowsiness detection.
+ 
+ 🚘📡 **Future Integration**: Designed for future integration with car sensors and IoT devices to provide a comprehensive safety solution.
+ 
+ 💻🖥️ **Cross-Platform Compatibility**: Works on both macOS and Windows systems.
 
 ## Installation Guide 🛠️
 
@@ -54,8 +58,11 @@ The Drowsiness Detection System is a cutting-edge AI-powered solution designed t
 
 ## Future Integration 🔮
 🚗 **Car Sensors**: Integrate with car sensors to monitor driver behavior and vehicle dynamics.
+
 🌐 **IoT Devices**: Connect with IoT devices for enhanced data collection and analysis.
+
 📱 **Mobile App**: Develop a mobile application to provide real-time alerts and analytics.
+
 ☁️ **Cloud Integration**: Store and analyze data on the cloud for better insights and predictive analytics.
 
 ## Usage 🧑‍💻
